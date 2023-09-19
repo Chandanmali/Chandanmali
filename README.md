@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/chandan11844766" target="blank"><img src="https://img.shields.io/twitter/follow/chandan11844766?logo=twitter&style=for-the-badge" alt="chandan11844766" /></a> </p>
 
+🎉 Merged PR [#4294](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4294) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+
 - 🔭 I’m currently working on **Personal Portfolio Website**
 
 - 🌱 I’m currently learning **React js, Data structures and Algorithm**
