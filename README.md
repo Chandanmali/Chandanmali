@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
-[![MasterHead](https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif)
+[![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)
 
 <h1 align="center">Hi 👋, I'm Chandan MALI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
