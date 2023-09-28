@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **MVC Architecture, GRPC, Web Socket, Data structures and Algorithm**
 
-- 💬 Ask me about **Html, css, javascript, Materialize css, C++, Data Structures**
+- 💬 Ask me about **Html, css, javascript, Materialize css, C++, Data Structures** 
 
 - 📫 How to reach me **chandanmali21117@gmail.com**
 
