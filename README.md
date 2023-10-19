@@ -36,7 +36,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanmali&show_icons=true&locale=en&layout=compact" alt="chandanmali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanmali&show_icons=true&locale=en" alt="chandanmali" /></p>
+
 
 
 
