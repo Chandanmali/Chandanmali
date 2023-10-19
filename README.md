@@ -37,7 +37,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanmali&show_icons=true&locale=en&layout=compact" alt="chandanmali" /></p>
 
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanmali&show_icons=true&locale=en" alt="chandanmali" /></p>
 
 
 
@@ -46,7 +46,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanmali&" alt="chandanmali" /></p>
 
 | ![Chandan's github stats](https://github-readme-stats.vercel.app/api?username=Chandanmali&show_icons=true&theme=tokyonight) | ![Chandan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chandanmali&theme=tokyonight) |
 | --- | --- |
