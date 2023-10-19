@@ -38,7 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanmali&show_icons=true&locale=en" alt="chandanmali" /></p>
 
-| ![Chandan's github stats](https://github-readme-stats.vercel.app/api?username=Naresh-chandanbatve&show_icons=true&theme=tokyonight) | ![Naresh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naresh-chandanbatve&theme=tokyonight) |
+| ![Chandan's github stats](https://github-readme-stats.vercel.app/api?username=Chandanmali&show_icons=true&theme=tokyonight) | ![Chandan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chandanmali&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-chandanbatve&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Naresh-chandanbatve&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
